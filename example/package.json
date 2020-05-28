@@ -1,14 +1,14 @@
 {
-  "name": "react-native-modal-dropdown-demo",
-  "version": "0.6.2",
-  "description": "A demo for react-native-modal-dropdown component.",
-  "homepage": "https://github.com/sohobloo/react-native-modal-dropdown",
+  "name": "react-native-modal-new-dropdown",
+  "version": "0",
+  "description": "A demo for react-native-modal-new-dropdown component.",
+  "homepage": "https://github.com/ajith-ab/react-native-modal-new-dropdown",
   "license": "MIT",
-  "author": "sohobloo <sohobloo@live.cn> (https://github.com/sohobloo)",
+  "author": "ajith-ab <ajith4ab@gmail.com> (https://github.com/ajith-ab)",
   "dependencies": {
     "react": "^16.2.0",
     "react-native": "^0.53.0",
-    "react-native-modal-dropdown": "latest"
+    "react-native-modal-new-dropdown": "latest"
   },
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"

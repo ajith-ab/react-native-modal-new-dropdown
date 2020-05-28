@@ -1,6 +1,6 @@
-[![npm version](https://badge.fury.io/js/react-native-modal-dropdown.svg)](https://badge.fury.io/js/react-native-modal-dropdown)
+[![npm version](https://badge.fury.io/js/react-native-modal-new-dropdown.svg)](https://badge.fury.io/js/react-native-modal-new-dropdown)
 
-# react-native-modal-dropdown
+# react-native-modal-new-dropdown
 A react-native dropdown/picker/selector component for both Android & iOS.
 
 ## Features
@@ -13,7 +13,7 @@ A react-native dropdown/picker/selector component for both Android & iOS.
 - Change everything into a dropdown list trigger.
 
 ## Demo
-<img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_1.gif?raw=true" width = "160" height = "287.5" alt="Demo 1"/> <img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_2.gif?raw=true" width = "160" height = "287.5" alt="Demo 2"/> <img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_3.gif?raw=true" width = "160" height = "287.5" alt="Demo 3"/>
+<img src="https://github.com/ajith-ab/react-native-modal-new-dropdown/blob/master/docs/demo_1.gif?raw=true" width = "160" height = "287.5" alt="Demo 1"/> <img src="https://github.com/ajith-ab/react-native-modal-new-dropdown/blob/master/docs/demo_2.gif?raw=true" width = "160" height = "287.5" alt="Demo 2"/> <img src="https://github.com/ajith-ab/react-native-modal-new-dropdown/blob/master/docs/demo_3.gif?raw=true" width = "160" height = "287.5" alt="Demo 3"/>
 
 You can find them in the example.
 
@@ -22,18 +22,18 @@ You can find them in the example.
 ### v0.7.0
 - Quick fix for react native 0.60. (Thanks to [@ibtesamlatif2997](https://github.com/ibtesamlatif2997))
 
-[Full update history list](https://github.com/sohobloo/react-native-modal-dropdown/wiki/Update-History)
+[Full update history list](https://github.com/ajith-ab/react-native-modal-new-dropdown/wiki/Update-History)
 
 ## Installation
 ```sh
-npm i react-native-modal-dropdown -save
+npm i react-native-modal-new-dropdown -save
 ```
 
 ## Usage
 ### Basic
 Import this module:
 ```javascript
-import ModalDropdown from 'react-native-modal-dropdown';
+import ModalDropdown from 'react-native-modal-new-dropdown';
 ```
 Use as a component:
 ```javascript

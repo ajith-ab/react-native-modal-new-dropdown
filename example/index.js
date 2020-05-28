@@ -16,7 +16,7 @@ import {
   ScrollView,
 } from 'react-native';
 
-// import ModalDropdown from 'react-native-modal-dropdown';
+// import ModalDropdown from 'react-native-modal-new-dropdown';
 import ModalDropdown from './ModalDropdown';
 
 const DEMO_OPTIONS_1 = ['option 1', 'option 2', 'option 3', 'option 4', 'option 5', 'option 6', 'option 7', 'option 8', 'option 9'];
@@ -192,7 +192,7 @@ class Demo extends Component {
   }
 
   _dropdown_4_onSelect(idx, value) {
-    // BUG: alert in a modal will auto dismiss and causes crash after reload and touch. @sohobloo 2016-12-1
+    // BUG: alert in a modal will auto dismiss and causes crash after reload and touch. @ajith-ab 2016-12-1
     //alert(`idx=${idx}, value='${value}'`);
     console.debug(`idx=${idx}, value='${value}'`);
   }
